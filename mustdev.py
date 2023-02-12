@@ -391,7 +391,7 @@ def bd():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('python mustdev.py'')
+                os.system('python mustdev.py')
 def gmail():
                 os.system('rm -rf .re.txt')
                 clear()
